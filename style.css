@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    color: white;
+}
+footer{
+    background: #AF2896;
+background: linear-gradient(90deg, rgba(175, 40, 150, 1) 0%, rgba(80, 155, 245, 1) 100%);
+}
